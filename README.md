@@ -1,0 +1,3 @@
+# AppDemoVideoGenerator
+
+![](/result/fig.png)
